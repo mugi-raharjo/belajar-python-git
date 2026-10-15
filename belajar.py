@@ -1,4 +1,8 @@
-buah = {"apel", "jeruk", "mangga"}
+hewan = {"kucing", "ayam", "ikan"}
 
-print("apel" in buah)
-print("pisang" in buah)
+hewan.add("kelinci")
+hewan.discard("ayam")
+hewan.discard("singa")
+
+print(hewan)
+print("belajar git")

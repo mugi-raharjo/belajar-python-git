@@ -2,3 +2,4 @@ Saya sedang belajar python
 saya ingin menjadi AI Engineer
 Saya sedang belajar Git
 Saya sudah berhasil menghubungkan Git dengan Github.
+Saya sedang belajar mengambil perubahan dengan git pull.

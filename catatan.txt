@@ -3,3 +3,4 @@ saya ingin menjadi AI Engineer
 Saya sedang belajar Git
 Saya sudah berhasil menghubungkan Git dengan Github.
 Saya sedang belajar mengambil perubahan dengan git pull.
+saya sedang belajar Git dan GitHub secara bertahap
